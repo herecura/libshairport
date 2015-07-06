@@ -1,7 +1,7 @@
 pkgbase = libshairport
 	pkgdesc = emulates an AirPort Express
 	pkgver = 1.2.1.20121215
-	pkgrel = 3
+	pkgrel = 4
 	url = https://github.com/amejia1/libshairport
 	arch = i686
 	arch = x86_64
